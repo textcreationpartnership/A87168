@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Maj. Gen. Harrison prisoner in the Tower of London: with his rules and precepts, to all publike churches, and private congregations: and an answer thereunto; also, the resolution of the Fifth-Monarchy-Men, Anabaptists, Quakers, and others.</title>
+            <author>Harrison, Thomas, 1606-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87168</idno>
+            <idno type="STC">Wing H913</idno>
+            <idno type="STC">Thomason E1035_10</idno>
+            <idno type="STC">ESTC R209273</idno>
+            <idno type="EEBO-CITATION">99868159</idno>
+            <idno type="PROQUEST">99868159</idno>
+            <idno type="VID">168933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168933)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1035[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Maj. Gen. Harrison prisoner in the Tower of London: with his rules and precepts, to all publike churches, and private congregations: and an answer thereunto; also, the resolution of the Fifth-Monarchy-Men, Anabaptists, Quakers, and others.</title>
+                  <author>Harrison, Thomas, 1606-1660.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nathaniel Tomkins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 1".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational Churches --  Doctrines --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168933:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF Maj. Gen. Harriſon Priſoner in the Tower of LONDON: WITH His Rules and Precepts, to all Publike Churches, and Private Congregations: And an ANSWER thereunto;</p>
+            <p>Alſo, the Reſolution of the Fifth-Monarchy-Men, Anabaptiſts, Quakers, and others.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathaniel Tomkins,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168933:2"/>
+            <pb n="3" facs="tcp:168933:2"/>
+            <head>A DECLARATION OF Major General HARRISON, Now Priſoner in the Tower of LONDON.</head>
+            <p>SInce the committing of Major General <hi>Harriſon</hi> to the Tower of <hi>London,</hi> divers of his Friends and Relations have had a Conference with him, touching the Grounds and Motives of his Actings: To which he declared, That he was throughly convinced of the Juſtneſs of the Cauſe he firſt engaged in; That he eſteemed reading of the Word of God an Ordinance of God both in private and publick, but did not account reading to be preaching; That he eſteemed that preaching beſt, wherein was moſt of God, leaſt of man, when vain flouriſhes of wit and words were declined, and the demonſtration of Gods Spirit and Power ſtudied; yet could he diſtinguiſh be<g ref="char:EOLhyphen"/>tween pureſt plainneſs, and negligent rudeneſs: That he ac<g ref="char:EOLhyphen"/>counted perſpicuity the beſt grace of a Preacher, and that me<g ref="char:EOLhyphen"/>thod beſt which was moſt helpful to Underſtandin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Affection, and Memory: That he eſteemed the Lords Day a Divine Ordinance, and reſt on it neceſſary ſo far as conduced to Holineſs: That he was very conſcientious in obſervance of that Day as the Mart day
+<pb n="4" facs="tcp:168933:3"/>
+of the Soul; That he was very careful to remember it, to get houſe and heart in order for it, and when it came he was ſtudious to improve it; That he redeemed the morning from ſuperfluous ſleep, and watched the whole day over his thoughts and words not onely to reſtrain them from wickedneſs, but wordlyneſs. And that all parts of the day were alike holy to him, and his care was coninued in it in variety of holy Duties: what he heard in pub<g ref="char:EOLhyphen"/>like, he repeated in private, to whet it upon himſelf and Family: Which Rules and Precepts, he deſired to be made practicable throughout all publike and private Congregations, for the en<g ref="char:EOLhyphen"/>lightning the dark Corners of the Earth, &amp;c.</p>
+            <p>A Gentleman ſtanding by, being tranſported with ſundry Re<g ref="char:EOLhyphen"/>flections, replyed as followeth:</p>
+            <p>
+               <hi>Sir,</hi> I might with reaſon believe that firſt election of the Party wherein you ſtood engaged, proceeded from inexperience and the miſtake of your Zeal; not to ſay from your compliances to the paſſions of others; becauſe I know how obſequious you have always ſhewed your ſelf in ſeveral Actions, eſpecially in your former Obedience to the Commands of a Monſtrous Tyrant and Rebellious Uſurper.</p>
+            <p>But, upon diſcovery of the Impoſtures which perverted them, and the ſignal Indignation of God, upon the ſeveral Periods which your eyes hath lately beheld, of the bloodieſt Tyrannies, and moſt prodigious Oppreſſors that ever any Age in the World pro<g ref="char:EOLhyphen"/>duc'd. To put the Ballance (therefore) into the hands of every Rational <hi>Engliſh-man,</hi> to poiſe the State of this Kingdom, which through the unexampled diſtraction and confuſion of a moſt ſor<g ref="char:EOLhyphen"/>did and horrid Rebellion, was an unſufferable weight to be born by any Man, who could make Title to Underſtanding; To hear with ſilence, people pretending to Religion, and to nothing elſe; crying up againſt Reaſon, a Reformation, in which themſelves are (however in themſelves inſenſibly) to the ſtranger ſtanders by viſibly ruined. Provoked therefore by compaſſion to my Country, I ſhall endeavour to convince the Opiniators of a Reformation, by putting yeſterday and to day, this and the end of a preceding Sep<g ref="char:EOLhyphen"/>tenarie in the Ballance. And therefore invite ſuch who are in any capacity of being adviſed, to a retroſpection, ſo far as the year, 1639. Where they may, if they look not thorow State-Spectacles, ſee a King ſelected, whoſe Royal, or Chriſtian Reputation, Fame dared not; could not, with ſo much as whiſper, <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lley;</hi> Rich in the
+<pb n="5" facs="tcp:168933:3"/>
+accumulate Hearts of a Numerous and Loyal People; and a Court in which (himſelf being Preſident) the Men and Manners com<g ref="char:EOLhyphen"/>pleated an Academie. They may ſee a Church full of Light, Or<g ref="char:EOLhyphen"/>der and Diſcipline, having a form beautiful, and an inſide gar<g ref="char:EOLhyphen"/>niſht, and enricht with as much (not to ſwell the compariſon) Learning and Piety, as Obſervation or Story can attribute to any ſince Chriſtianity was a Profeſſion. Thoſe then inconſiderable few Oppoſers, or interrupters of its Peace and Government, being perſons of as obſcure mark, as of clandeſtine and mycheing motion, skulking like young Foxes, and no ſooner unkenel'd, but as Vermine purſued, the general <hi>Odium</hi> being contracted upon them: They may ſee a Nobility, Luſtrous, like Mirrours by the Suns, their Princes, reflex in the badges of their Honour and Of<g ref="char:EOLhyphen"/>fice, a flouriſhing Gentry, plentifully ſharing Dignities, and Truſts in the Military and Civil Magiſtracy. But behold the Scean is again changed, bleſſed be God; and theſe State-Mountebanks, that formerly ſerv'd and rais'd up themſelves to that pitch and Inveſtiture, are blown away; and theſe Puppets of policy are alſo taken in the ſame Nets and Gyns that they laid for others. When I ſeriouſly reflect upon all this, I cannot but detect them in their procedure, and deplore the ſadneſs of their condition. For, ſince you are apt to recriminate, and boaſt the Juſtneſs of your Cauſe, let us go back to the ſource, and ſearch the very principles; and then ſee, if ever any Cauſe had like ſucceſs indeed. Firſt then, be pleaſed to look North-wards upon the <hi>Scots,</hi> who made Reforma<g ref="char:EOLhyphen"/>tion their pretence, to gratifie their own Avarice, introduce <hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> and a more then <hi>Babyloniſh</hi> Tyranny, impoſing upon the Church and State, beyond all example. I ſay, look upon what they have gotten by deceiving their Brethren, ſelling their King, be<g ref="char:EOLhyphen"/>traying his Son, and by all their perfidie; but a ſlavery more then <hi>Egyptian,</hi> and an Infamy as unparalled, as their Treaſon and Ingra<g ref="char:EOLhyphen"/>titude. Look nearer home, and tell me if there be a perſon of them left, that can ſhew me his prize, unleſs it be that of Sacri<g ref="char:EOLhyphen"/>lege, which he or his Nephews muſt certainly vomit up again. O the perpetrated Actions of theſe Sons of Thunder! What hath been ſpawned under their Atheiſtical Government, is beyond all compariſon: Under the Sun was never ſuch things heard of: Yet thoſe that died by the ſword, fell in the bed of honour; their Re<g ref="char:EOLhyphen"/>ligion and their Loyalty will be renowned in the Hiſtory of Ages, when the Names of Traytors will rot with their Carcaſſes, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dung upon the face of the Earth.</p>
+            <p>
+               <pb n="6" facs="tcp:168933:4"/>To proceed to the eſſential Parts of our gracious Soveraign, this beyond compariſon is obſervable: 1. If we conſider him in the Natural Endowments of his Mind, thoſe his moſt Tranſcen<g ref="char:EOLhyphen"/>dently Symmetrical Organs are full ſtretcht, with the internall gifts, and moſt accompliſhing graces of a ſerene Soul: Of a moſt piercing Apprehenſion, nimble Wit, but ſound Judgement: Of ſo conſtant a Reſervedneſs and Majeſtique gravity, 'tis queſtionable whether he can be angry or pleas'd, griev'd or rejoyc'd, ſo far as to betray his Senſations to every Beholder; ſo merciful and kind in his very Severities, and ſo ſevere in his Kindneſſes, that his greateſt Enemies become his greateſt Friends, and his Friends can never be otherwiſe, but by the envy of his Vertues, and win<g ref="char:EOLhyphen"/>ning Sweetneſs; So moderate, He pleads for his cruelleſt Adver<g ref="char:EOLhyphen"/>ſaries, and ſo tender a Father to his unnatural Subjects, He pities (not inveighs againſt) their miſcarriages: Of a conſtant Reſo<g ref="char:EOLhyphen"/>lution, and undanted Courage, none more valiant, none more mer<g ref="char:EOLhyphen"/>ciful; none more Amiable, none more Chaſte and Temperate, and withall ſo Religiouſly Devout, and ſo Piouſly Conſtant in all Di<g ref="char:EOLhyphen"/>vine Worſhips and Services, that He may truly be called a good Church-man, as well as a good King.</p>
+            <p>But leaſt I loſe my ſelf in ſo large a field, give me leave from this <hi>ſweet Subject</hi> to come to his Education, where you may expect I ſhould bewail the averſeneſs of his Stars, and thoſe Diſaſtrous Times, and Tempeſtuous Seas, and Avious Deſarts, he was forc't to trace the Muſes in. But we find no want in him, either of a ſtrict and conſtant Tutorage, the Nurſe of Art, the Converſe of a Flouriſhing and Glorious Court; yea, we cannot but ſee that thoſe Providences which to others would become the greateſt diſadvantages, have been to this moſt Excellent Perſon the high<g ref="char:EOLhyphen"/>eſt Improvements.</p>
+            <p>In a word, Thoſe ingenuous and candid Principles connaturall to Him are ſo approved by his Afflictions, the experience of the inconſtancy of this Tranſitory World, thoſe true ſparks of Reli<g ref="char:EOLhyphen"/>gion and pure Conſcience which ſeem to flame in him, and the ſweet content his Majeſty took in his innocent Retirement, that he could ſeem to project nothing in his return to <hi>England,</hi> but the ſaving his unnatural Children from that inevitable ruine and miſery they would have brought upon themſelves and the Threé Kingdoms, had they gone on in their diſobedience: Nay, often hath his Majeſty been heard to ſay, No Enormities could or
+<pb n="7" facs="tcp:168933:4"/>
+ſhould diſoblige him from that Fatherly tenderneſs to his Coun<g ref="char:EOLhyphen"/>trey-men and Subjects, would they but return to their duty, and that he ſaw no reaſon any Sect whatſoever ſhould be diſowned by him (as ſuch) more than a deformed Child by a Natural Father; ſince 'tis in the power of God alone to reform the Conſcience.</p>
+            <p>To conclude, ſo affectionately doth many of theſe Sects with Loyalty ſubmit under the influence of ſo good a Prince, That di<g ref="char:EOLhyphen"/>vers of the People called Quakers, Anabaptiſts, Fifth-Monarchy Men, and Levellers, Do wiſh from their hearts, that our gracious Soveraign may be, and the Kingdoms by Him, more happy than any; and that the true ends of Government may be had and com<g ref="char:EOLhyphen"/>municated fully; that every honeſt Heart may have cauſe to re<g ref="char:EOLhyphen"/>joyce in GOD, the KING, and their LAWS. Reſolving, (through Grace) to reſt quiet and content under God's Vice<g ref="char:EOLhyphen"/>gerent, and to let the King of Kings alone with ruling the <hi>World,</hi> to whoſe Wiſdom and Power all Creatures ought to ſubmit.</p>
+            <p>And further they have declared, That they will be paſſive un<g ref="char:EOLhyphen"/>der Authority, rather than impatient; to procure the quiet and peace of the Nation to their utmoſt; to mind things inviſible, and of a better conſiſtence then theſe below, and to pray for the hap<g ref="char:EOLhyphen"/>pineſs and welfare of his Majeſty, and the reſt of the Royal Iſſue, <hi>Whom God long preſerve.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
